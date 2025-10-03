@@ -1,17 +1,24 @@
 # curriculo-vinicius
 
-
-
-
-
-
-
-
-
-
-
-
-<h3>CONTATOS</h3>
+<!DOCTYPE html>
+    <html lang="en"> <!--<p> paragrafo, <i> italico, <em> italico semantico, <b> negrito, <strong> negrito semantico, <ol> lista ordenada, <br> quebrar linha, <sub> joga a palavra pra frente, <sup> sobe a palavra, <u> sublinhado, <li> linha da lista-->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Vinicius</title>
+    </head>
+    <body>
+        <img src="hll.jfif" height="150" width="150">
+    <p align="center">
+            <font face = "arial" color = "black" size = "7" >Curriculo de Vinicius Rodrigues Salgado</font> </font>
+    <hr>
+    </p>
+    <imq src="" height="80" width="80">
+    
+    </imq>
+    <ol>
+        <font color="Black">
+        <h3>CONTATOS</h3>
     </font>
     <b>Linkedin</b><a href="https://www.linkedin.com/in/vinicius-rodrigues-salgado-479110297/"> aqui </b></a> <br>
         <b>vinicius666787@gmail.com </b> <br>
@@ -69,3 +76,6 @@
         <p> Python</p>
     <p> SQL</p>
     </ol>
+    
+    </body>
+    </html>
