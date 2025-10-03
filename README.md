@@ -1,4 +1,16 @@
 # curriculo-vinicius
+
+
+
+
+
+
+
+
+
+
+
+
 <h3>CONTATOS</h3>
     </font>
     <b>Linkedin</b><a href="https://www.linkedin.com/in/vinicius-rodrigues-salgado-479110297/"> aqui </b></a> <br>
